@@ -1,0 +1,8 @@
+{
+  "name": "React-Developer-Tools-chrome-extensions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/masx200/React-Developer-Tools-chrome.git",
+  "author": "masx200 <34191203+masx200@users.noreply.github.com>",
+  "license": "MIT"
+}
